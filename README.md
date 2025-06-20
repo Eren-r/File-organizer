@@ -1,4 +1,4 @@
-# 🧹 File Organizer Bot - Python GUI App
+# 🧹 File Organizer Bot -App
 
 A simple yet powerful desktop application to organize your messy folders by single click.
 
